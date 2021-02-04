@@ -1,0 +1,24 @@
+{
+  "name": "open-calculator",
+  "version": "1.0.0",
+  "description": "Easy to use - Open-Source Calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Open-Webdesign-Germany/Open-Calculator.git"
+  },
+  "keywords": [
+    "Calculator",
+    "FOSS"
+  ],
+  "author": "Open Webdesign Germany",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Open-Webdesign-Germany/Open-Calculator/issues"
+  },
+  "homepage": "https://github.com/Open-Webdesign-Germany/Open-Calculator#readme",
+  "devDependencies": {}
+}
