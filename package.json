@@ -20,7 +20,5 @@
     "url": "https://github.com/Open-Webdesign-Germany/Open-Calculator/issues"
   },
   "homepage": "https://github.com/Open-Webdesign-Germany/Open-Calculator#readme",
-  "devDependencies": {
-    "electron": "^11.2.2"
-  }
+  "devDependencies": {}
 }
